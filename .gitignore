@@ -1,3 +1,8 @@
+#Custom ignored files
+x64/
+week2-dy.a4cfa813/
+.vs/ 
+
 # Prerequisites
 *.d
 
